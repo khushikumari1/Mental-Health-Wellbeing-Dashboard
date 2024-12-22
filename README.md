@@ -5,6 +5,14 @@ This repository documents the end-to-end process of analyzing mental health data
 
 ---
 
+📝 Participate in Our Survey
+
+Your voice matters! 🌟 Join us in uncovering mental health trends and experiences to drive impactful change in education, healthcare, and beyond. Your insights can make a difference! 💙
+
+👉 Fill Out the Survey Here - https://docs.google.com/forms/d/1NBIn-3A4Xbej4k5OmiIgVt-tHs2An7FhbmiyrUgRN8Q/viewform?edit_requested=true
+
+💡 Your responses will be anonymous and used solely for research and analysis purposes. Thank you for helping us make a difference!
+
 ## Project Workflow
 
 ### 1. Data Collection
