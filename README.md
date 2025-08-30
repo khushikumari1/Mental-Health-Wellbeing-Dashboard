@@ -90,16 +90,12 @@ The cleaned and transformed dataset was exported as a CSV file for loading into 
 ## Project Structure
 ```
 .
-├── data
-│   ├── raw_data.csv                # Raw data exported from Google Forms
-│   ├── cleaned_data.csv            # Transformed data after ETL operations
-├── scripts
-│   ├── RenameColumns.vba           # VBA script for renaming and transforming columns in Excel
-├── sql
-│   ├── star_schema_creation.sql    # SQL script for creating the star schema in BigQuery
-├── dashboards
-│   ├── MentalHealthDashboard.pbix  # Power BI dashboard file
-├── README.md                       # Project documentation
+├── raw_data.csv                # Raw data exported from Google Forms
+├── cleaned_data.csv            # Transformed data after ETL operations
+├── RenameColumns.vba           # VBA script for renaming and transforming columns in Excel
+├── star_schema_creation.sql    # SQL script for creating the star schema in BigQuery
+├── MentalHealthDashboard.pbix  # Power BI dashboard file
+├── README.md                   # Project documentation
 ```
 
 ---
